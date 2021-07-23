@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Paresh
-- 👀 I’m interested in Data Science and Machine Learning. 
-- 🌱 I’m currently learning Computer Science
-- 💞️ I’m looking to collaborate on Machine learning Projects
+- 👀 I’m interested in Python, Data Science and Machine Learning. 
+- 🌱 I’m currently learning new technologies around the world
+- 💞️ I’m looking to collaborate on Python & Machine learning Projects
 - 📫 How to reach me : https://www.linkedin.com/in/paresh-rangvani  or you can email me at rangvaniparesh@gmail.com
 
 <!---
